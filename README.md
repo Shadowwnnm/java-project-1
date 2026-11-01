@@ -1,4 +1,8 @@
 # java-project-1
+Akinsola Inioluwa Emmanuel
+Computer science
+200lvl
+25/16686
 
 ## About This Project
 This repository contains three Java programs written to fulfil the COS 201 practical assignment. The programs cover simple calculations and basic data processing through user input.
